@@ -128,7 +128,7 @@ namespace FragilePurse
                 immune = false;
             }
         }
-        private int spawnGeo(int damage, int hazardType)
+        private int spawnGeo(int hazardType, int damage)
         {
             if (PlayerData.instance.geo <= 0)
             {

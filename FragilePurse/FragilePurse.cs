@@ -97,7 +97,7 @@ namespace FragilePurse
         }
 
 
-        public override string GetVersion() => "0.1";
+        public override string GetVersion() => "0.1.1";
 
         public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects)
         {
